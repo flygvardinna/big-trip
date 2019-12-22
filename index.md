@@ -7,13 +7,13 @@
     <title>Big Trip</title>
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="public/css/style.css">
   </head>
 
   <body class="page-body">
     <header class="page-header">
       <div class="page-body__container  page-header__container">
-        <img class="page-header__logo" src="img/logo.png" width="42" height="42" alt="Trip logo">
+        <img class="page-header__logo" src="public/img/logo.png" width="42" height="42" alt="Trip logo">
 
         <div class="trip-main">
           <section class="trip-main__trip-info  trip-info">
@@ -47,6 +47,6 @@
           </section>
       </div>
     </main>
-    <script type="module" src="bundle.js"></script>
+    <script type="module" src="public/bundle.js"></script>
   </body>
 </html>
