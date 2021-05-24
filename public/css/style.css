@@ -463,9 +463,9 @@ main {
     text-align: center;
     margin-right: 83px; }
   .trip-sort__item--event {
-    width: 298px; }
+    width: 290px; }
   .trip-sort__item--time {
-    width: 283px; }
+    width: 303px; }
   .trip-sort__item--price {
     width: 119px; }
 
@@ -689,7 +689,7 @@ main {
 .event__title {
   -ms-flex-negative: 0;
       flex-shrink: 0;
-  width: 298px;
+  width: 290px;
   margin: 0;
   margin-right: 15px;
   font-weight: 400;
@@ -698,7 +698,7 @@ main {
 .event__schedule {
   -ms-flex-negative: 0;
       flex-shrink: 0;
-  width: 285px;
+  width: 303px;
   margin-right: 15px; }
 
 .event__time {
@@ -793,7 +793,7 @@ main {
     .event__input--destination::-webkit-calendar-picker-indicator {
       display: none; }
   .event__input--time {
-    width: 130px;
+    width: 140px;
     text-align: center; }
   .event__input--price {
     width: 66px; }
