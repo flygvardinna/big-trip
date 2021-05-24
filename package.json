@@ -24,7 +24,7 @@
     "node": "10"
   },
   "dependencies": {
-    "chart.js": "2.8.0",
+    "chart.js": "2.9.4",
     "flatpickr": "4.6.2",
     "moment": "2.24.0"
   }
